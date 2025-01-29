@@ -1,8 +1,3 @@
-# DeepSeek-Self-Hosting
-
-# DeepSeek-Self-Hosting
-
-# Create a README.md file in your repo and add:
 
 # 🚀 DeepSeek Self-Hosting on AWS  
 
